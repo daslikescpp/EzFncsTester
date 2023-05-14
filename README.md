@@ -3,4 +3,4 @@ Ez Functions Tester Made By Stellar Technologies, A ROBLOX Script Hub Company. W
 
 
 # How To Use
-Using EzFncsTester IS VERY Easy. All You Need Is An Executor That Can Run Loadstrings And HTTPGET And Run The Code From [Here.](ezfncstester.lua)
+You Can Check What Functions Your Exploit Supports By Running The Script [Here.](ezfncstester.lua)
